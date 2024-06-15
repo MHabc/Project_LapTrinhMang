@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|d:\\project2\\project2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|D:\\Project2\\project2\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57AF81F0-CFF5-45BC-A970-C57B218817C3}|Project2\\Project2.csproj|solutionrelative:project2\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Server.cs",
+              "RelativeDocumentMoniker": "Project2\\Server.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Server.cs",
+              "RelativeToolTip": "Project2\\Server.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:30:54.903Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Client.cs",
+              "RelativeDocumentMoniker": "Project2\\Client.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Client.cs",
+              "RelativeToolTip": "Project2\\Client.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:31:53.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Server.cs",
+              "RelativeDocumentMoniker": "Project2\\Server.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Server.cs [Design]",
+              "RelativeToolTip": "Project2\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:23:04.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Project2\\Client.Designer.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Client.Designer.cs",
+              "RelativeToolTip": "Project2\\Client.Designer.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAMwMoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:28:49.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Project2\\Server.Designer.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Server.Designer.cs",
+              "RelativeToolTip": "Project2\\Server.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAMwIoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:28:13.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Client.cs",
+              "RelativeDocumentMoniker": "Project2\\Client.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Client.cs [Design]",
+              "RelativeToolTip": "Project2\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:23:15.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Project2\\Dashboard.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Dashboard.cs",
+              "RelativeToolTip": "Project2\\Dashboard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:22:33.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Project2\\Dashboard.Designer.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Project2\\Dashboard.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:20:53.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Project2\\Project2\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Project2\\Dashboard.cs",
+              "ToolTip": "D:\\Project2\\Project2\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Project2\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:35:03.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

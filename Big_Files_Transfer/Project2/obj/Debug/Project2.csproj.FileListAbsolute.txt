@@ -1,0 +1,12 @@
+D:\Project2\Project2\bin\Debug\Project2.exe.config
+D:\Project2\Project2\bin\Debug\Project2.exe
+D:\Project2\Project2\bin\Debug\Project2.pdb
+D:\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\Project2\Project2\obj\Debug\Project2.Client.resources
+D:\Project2\Project2\obj\Debug\Project2.Dashboard.resources
+D:\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+D:\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+D:\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\Project2\Project2\obj\Debug\Project2.exe
+D:\Project2\Project2\obj\Debug\Project2.pdb
+D:\Project2\Project2\obj\Debug\Project2.Server.resources

@@ -1,0 +1,69 @@
+D:\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe.config
+D:\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe
+D:\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.pdb
+D:\Client_Server_Project\Client_Server_Project\bin\Debug\Interop.WMPLib.dll
+D:\Client_Server_Project\Client_Server_Project\bin\Debug\AxInterop.WMPLib.dll
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.AssemblyReference.cache
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Interop.WMPLib.dll
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\AxInterop.WMPLib.dll
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.ResolveComReference.cache
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Client.resources
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Dashboard.resources
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Properties.Resources.resources
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Server.resources
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.GenerateResource.cache
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.CoreCompileInputs.cache
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.exe
+D:\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe.config
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Client.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Dashboard.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Server.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.pdb
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe.config
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.pdb
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Client.resources
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Dashboard.resources
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Properties.Resources.resources
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Server.resources
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.exe
+C:\Users\HP\Downloads\Client_Server_Project\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe.config
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\bin\Debug\Client_Server_Project.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Client.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Dashboard.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.Server.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Client_Server_Project (1)\Client_Server_Project\Client_Server_Project\obj\Debug\Client_Server_Project.pdb
